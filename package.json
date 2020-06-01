@@ -1,0 +1,22 @@
+{
+  "name": "calculat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "jest": "^24.9.0"
+  },
+  "rules": {
+    "semi": ["error", "always"],
+    "quotes": ["error", "double"],
+    "extends": "eslint:recommended"
+  }
+}
